@@ -1,1 +1,1 @@
-https://yahtzeewebapp-production.up.railway.app/
+Web App: https://yahtzeewebapp-production.up.railway.app/
